@@ -28,68 +28,68 @@ All videos listed below can be found in the playlist in a sequential order:
 ### Data Types
 | Resource Name                                 |Duration| Resource                                     |
 |-----------------------------------------------|--------|----------------------------------------------|
-| Primitive Types                               | 1h     | https://youtu.be/qw3j0A3DIzQ                 |
-| Object                                        | 1h     | https://youtu.be/SgjE4jcJzoY                 |
+| Primitive Types                               | 6m 59s | https://youtu.be/qw3j0A3DIzQ                 |
+| Object                                        | 7m 10s | https://youtu.be/SgjE4jcJzoY                 |
 | typeof operator                               | 4m 52s | https://youtu.be/ol_su88I3kw                 |   
 
 
 ### Type Casting
 | Resource Name                                          |Duration| Resource                     |
 |--------------------------------------------------------|--------|------------------------------|
-| Explicit and Implicit Type Casting                     | 1h 40m | https://youtu.be/hdI2bqOjy3c |
+| Explicit and Implicit Type Casting                     | -      | -                            |
 
 
 ### Data Structures
 | Resource Name                                          |Duration| Resource                                     |
 |--------------------------------------------------------|--------|----------------------------------------------|
-| Structured Data                                        | 3h 10m | https://youtu.be/7S_tz1z_5bA                 |
-| Indexed Collections (Arrays)                           | 3h 10m | https://youtu.be/7S_tz1z_5bA                 |  
-| JSON                                                   | 4h 20m | https://youtu.be/HXV3zeQKqGY                 |
+| Structured Data                                        | -      | -                                            |
+| Indexed Collections (Arrays)                           | -      | -                                            |  
+| JSON                                                   | -      | -                                            |
 
 
 ### Equality Comparisons
 | Resource Name                                 |Duration| Resource                                     |
 |-----------------------------------------------|--------|----------------------------------------------|
-| Value Comparison Operators                    | 46m    | -                                            |
+| Value Comparison Operators                    | -      | -                                            |
 
 
 ### Loops and Iterators
 | Resource Name                                 |Duration| Resource                                     |
 |-----------------------------------------------|--------|----------------------------------------------|
-| For statement                                 | 46m    | -                                            |
-| Do..while statement                           | 46m    | -                                            |
-| While statement                               | 46m    | -                                            |
-| For..in statement                             | 46m    | -                                            |
-| For..of statement                             | 46m    | -                                            |
-| Break / Continue statement                    | 46m    | -                                            |
+| For statement                                 | -      | -                                            |
+| Do..while statement                           | -      | -                                            |
+| While statement                               | -      | -                                            |
+| For..in statement                             | -      | -                                            |
+| For..of statement                             | -      | -                                            |
+| Break / Continue statement                    | -      | -                                            |
 
 
 ### Control Flow
 | Resource Name                                 |Duration| Resource                                      |
 |-----------------------------------------------|--------|---------------------------------------------- |
-| Conditional Statements (If, else statements)  | 46m    | -                                             |
-| Exception Handling (Throw, try/catch/finally) | 46m    | -                                             |
+| Conditional Statements (If, else statements)  | -      | -                                             |
+| Exception Handling (Throw, try/catch/finally) | -      | -                                             |
 
 
 ### Control Flow
 | Resource Name                                 |Duration| Resource                                      |
 |-----------------------------------------------|--------|-----------------------------------------------|
-| Conditional Statements (If, else statements)  | 46m    | -                                             |
-| Exception Handling (Throw, try/catch/finally) | 46m    | -                                             |
+| Conditional Statements (If, else statements)  | -      | -                                             |
+| Exception Handling (Throw, try/catch/finally) | -      | -                                             |
+
+
+### Functions
+| Resource Name                                      |Duration| Resource                                   |
+|----------------------------------------------------|--------|--------------------------------------------|
+| Expressions and operators                          | -      | -                                            |
+| Function Parameters (Default and Rest Parameters)  | -      | -                                            |
+| Arrow Functions                                    | -      | -                                            |
+| Built-in Functions                                 | -      | -                                            |
 
 
 ### Functions
 | Resource Name                                      |Duration| Resource                                     |
 |----------------------------------------------------|--------|----------------------------------------------|
-| Expressions and operators                          | 46m    | -                                            |
-| Function Parameters (Default and Rest Parameters)  | 46m    | -                                            |
-| Arrow Functions                                    | 46m    | -                                            |
-| Built-in Functions                                 | 46m    | -                                            |
-
-
-### Functions
-| Resource Name                                      |Duration| Resource                                     |
-|----------------------------------------------------|--------|----------------------------------------------|
-| Expressions and operators                          | 46m    | -                                            |
-| Function Parameters (Default and Rest Parameters)  | 46m    | -                                            |
-| Arrow Functions                                    | 46m    | -                                            |
+| Expressions and operators                          | -     | -                                             |
+| Function Parameters (Default and Rest Parameters)  | -     | -                                             |
+| Arrow Functions                                    | -     | -                                             |
