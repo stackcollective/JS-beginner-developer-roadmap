@@ -1,11 +1,11 @@
 # JS Beginner Developer roadmap
 This repository contains resources as well as a roadmap that will help a prospective JavaScript developer get into the language and improve.
 
-All videos listed below can be found in the playlist in a sequential order:
-
 ## Table of Contents
 
-1. **[Introduction to Javascript](https://github.com/thestackcollective/JS-beginner-developer-roadmap#Introduction-to-javascript)**
+1. **[Introduction to Javascript](https://github.com/stackcollective/JS-beginner-developer-roadmap#Introduction-to-Javascript)**
+2. **[Variables in JavaScript](https://github.com/stackcollective/JS-beginner-developer-roadmap#Variables-in-Javascript)**
+3. **[Data Types](https://github.com/stackcollective/JS-beginner-developer-roadmap#Data-Types)**
 ------
 
 ### Introduction to Javascript
@@ -93,3 +93,14 @@ All videos listed below can be found in the playlist in a sequential order:
 | Expressions and operators                          | -     | -                                             |
 | Function Parameters (Default and Rest Parameters)  | -     | -                                             |
 | Arrow Functions                                    | -     | -                                             |
+
+
+# Contributions
+
+We are actively inviting new contributors! To start, please read the [contribution guide](CONTRIBUTING.md).
+
+This project is only possible thanks to the work of many dedicated volunteers. Everyone is encouraged to help in ways large and small. Here are a few ways you can help:
+
+- Read the current content and help us fix any spelling mistakes or grammatical errors.
+- Choose an existing [issue](https://github.com/stackcollective/JS-beginner-developer-roadmap) on GitHub and submit a pull request to fix it.
+- Open a new issue to report an opportunity for improvement.
